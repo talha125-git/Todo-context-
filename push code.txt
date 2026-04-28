@@ -1,3 +1,5 @@
 git add .
 git commit -m "chnage title "  
 git push -u origin main  
+
+npm run deploy
